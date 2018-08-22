@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bearmaps">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../library-su18/bearmaps" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
